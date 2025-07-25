@@ -1,3 +1,13 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your other CSS rules (if any) go below these lines */
+body {
+  font-family: 'Inter', sans-serif; /* Apply the Inter font to the body */
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
